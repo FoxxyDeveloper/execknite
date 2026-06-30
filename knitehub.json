@@ -2,5 +2,10 @@
   "HUBS → Yo mama": "require(120133869038302).YourMom('PLRNAME')",
   "USEFUL → Chat bypass": "require(0x455ADC14802E).BubbleChat('PLRNAME')",
   "FUN → Draw": "require(2966602068):Fire('PLRNAME','test')",
-  "FUN → Airstrike": "require(11670894308).Strafe('PLRNAME')"
+  "FUN → Airstrike": "require(11670894308).Strafe('PLRNAME')",
+  "FUN → Armed Helicopter": "require(12620186035).Huey('PLRNAME')",
+  "FUN → Barrel": "require(95235428232107).barrel('PLRNAME')",
+  "FUN → Surya [R6 ONLY]": "require(122168186720709).roko('PLRNAME')",
+  "FUN → Excavator": "require(16857604287)('PLRNAME')",
+  "FUN → Infect V2": "require(9377543709).InfectionV2('PLRNAME')"
 }
